@@ -1,2 +1,2 @@
 # cash_register
-November 5, 2024. This was a challenge where we had to make a cash register program in one period (75 minutes) without looking anything up. 
+This was a challenge where we had to make a program where you could enter items and their prices, and it would calculate the total, but we only had one period (75 minutes) to do it, and couldn't look anything up. If we completed it we could get 100% on midterms, which I did. Because it was made in one period its still kind of messy and has random code commented out, and some other small issues.
